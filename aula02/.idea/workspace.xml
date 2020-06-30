@@ -19,20 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="486803bb-2e2a-4e8c-a7ab-376dd72a7e79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/alex.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02/Caneta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02/Pizza.java" afterDir="false" />
-    </list>
+    <list default="true" id="486803bb-2e2a-4e8c-a7ab-376dd72a7e79" name="Default Changelist" comment="aula 02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +76,14 @@
       <option name="presentableId" value="Default" />
       <updated>1593515426625</updated>
     </task>
+    <task id="LOCAL-00001" summary="aula 02">
+      <created>1593517539562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593517539562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +96,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aula 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula 02" />
   </component>
   <component name="WindowStateProjectService">
     <state x="466" y="157" width="424" height="491" key="FileChooserDialogImpl" timestamp="1593515488839">
@@ -127,9 +127,13 @@
       <screen x="0" y="26" width="1366" height="742" />
     </state>
     <state x="187" y="31" width="992" height="737" key="SettingsEditor/0.26.1366.742@0.26.1366.742" timestamp="1593515491574" />
-    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1593516543533">
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1593517549927">
       <screen x="0" y="26" width="1366" height="742" />
     </state>
-    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.26.1366.742@0.26.1366.742" timestamp="1593516543533" />
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.26.1366.742@0.26.1366.742" timestamp="1593517549927" />
+    <state x="94" y="26" width="1168" height="742" key="new project wizard" timestamp="1593517584595">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="94" y="26" width="1168" height="742" key="new project wizard/0.26.1366.742@0.26.1366.742" timestamp="1593517584595" />
   </component>
 </project>
