@@ -1,7 +1,5 @@
 package aula10;
 
-import java.util.StringJoiner;
-
 public class Aluno extends Pessoa {
     private int numeroMatricula;
     private String curso;
